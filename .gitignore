@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+activity_model_outputs/
+checkpoints/
+data/*
+!data/examples.jsonl
+!data/README.md

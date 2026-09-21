@@ -20,7 +20,7 @@ class Activity(BaseModel):
 
 @asynccontextmanager
 async def lifespan(app):
-    app.state.classifier = ActivityClassifier(os.getenv("MODEL_PATH", "activity_model_outputs"))
+    app.state.classifier = ActivityClassifier(os.getenv("MODEL_PATH"))
     yield
 
 

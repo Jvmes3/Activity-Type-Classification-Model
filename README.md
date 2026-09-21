@@ -77,7 +77,7 @@ print(result["activityType"])
 
 Results contain `activityType`, `confidence`, and `scores` for all seven classes.
 Confidence is an uncalibrated softmax score. Validate any review threshold on real data.
-Inference loads trained local weights and checks the label mapping.
+Inference loads local weights or the linked Hugging Face model and checks the label mapping.
 
 ## HTTP API
 
@@ -92,7 +92,7 @@ curl http://127.0.0.1:8000/predict \
 
 `POST /predict` accepts the three text fields. `GET /health` reports readiness after
 model loading; `/docs` provides the interactive API schema. Set `MODEL_PATH` for a
-custom local model directory. Startup fails clearly when trained weights are missing.
+custom local model directory. Startup requires trained weights locally or in the linked Hugging Face repository.
 The API supports A1 Activity Generation routing and downstream analytics. Authentication
 and deployment should be supplied by the host application before exposing it externally.
 
@@ -132,3 +132,37 @@ HF_HUB_OFFLINE=1 python tests/smoke_pipeline.py
 This builds a tiny random DistilBERT in a temporary directory, runs one training
 epoch, reloads the checkpoint, and checks evaluation, prediction, and API validation.
 It verifies the pipeline, not model quality.
+
+## Hugging Face connection
+
+The model destination is
+[jvmes3/ActivityTypeClassifierModel](https://huggingface.co/jvmes3/ActivityTypeClassifierModel).
+GitHub holds the application and training code; this Hugging Face repository holds
+trained weights and tokenizer files. Uploading to a model repository does not start
+a hosted API or Space.
+
+After activating your environment and installing `requirements.txt`:
+
+```bash
+hf auth login
+python train_activity_model.py --data data/activities.jsonl --epochs 3
+python push_model.py --dry-run
+python push_model.py
+```
+
+The upload helper validates the model and uploads only inference artifacts,
+`evaluation.json`, and `MODEL_CARD.md` as the Hub README. It excludes training data,
+intermediate checkpoints, credentials, and the virtual environment. Authentication
+uses your local Hugging Face login or `HF_TOKEN`; do not commit a token.
+
+Prediction and the API prefer local `activity_model_outputs` weights when present,
+otherwise they download from the linked Hugging Face repository. You can explicitly
+select the Hub version:
+
+```bash
+python predict_example.py --model jvmes3/ActivityTypeClassifierModel --title "Learning journal"
+MODEL_PATH=jvmes3/ActivityTypeClassifierModel uvicorn app:app --host 127.0.0.1 --port 8000
+```
+
+The Hub must contain uploaded trained weights before remote prediction works.
+This connection does not automatically sync GitHub commits to Hugging Face.

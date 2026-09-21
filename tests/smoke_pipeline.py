@@ -30,6 +30,8 @@ def main():
         subprocess.run([sys.executable, str(ROOT / 'train_activity_model.py'),
                         '--data', str(ROOT / 'data/examples.jsonl'), '--model', str(base),
                         '--output', str(output), '--epochs', '1'], check=True)
+        subprocess.run([sys.executable, str(ROOT / 'push_model.py'),
+                        '--model', str(output), '--dry-run'], check=True)
         result = ActivityClassifier(str(output)).predict({'title': 'Learning'})
         assert result['activityType'] in LABELS
         assert abs(sum(result['scores'].values()) - 1) < 1e-5

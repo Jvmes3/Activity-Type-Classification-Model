@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "synthetic-v1-reflection-001",
+    "title": "After the garden season",
+    "description": "Your first growing season has ended.",
+    "instructions": "Describe a decision that helped your plants and one you would change next season.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-002",
+    "title": "A recipe that surprised me",
+    "description": "A meal you cooked turned out differently than expected.",
+    "instructions": "Recall your choices and explain what the result taught you about your approach.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-003",
+    "title": "Looking back at a team deadline",
+    "description": "Your group has completed a shared assignment.",
+    "instructions": "Write privately about your contribution and how you responded when plans changed.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-004",
+    "title": "My first coding bug",
+    "description": "You recently fixed a difficult error.",
+    "instructions": "Explain what you tried, why you got stuck, and how your thinking changed.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-005",
+    "title": "A song and a memory",
+    "description": "A familiar song brings back a personal experience.",
+    "instructions": "Describe the memory and consider why the song matters to you now.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-006",
+    "title": "When I changed my mind",
+    "description": "A conversation challenged an opinion you held.",
+    "instructions": "Record your earlier view, your current view, and what prompted the change.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-007",
+    "title": "The bus ride home",
+    "description": "You have finished your first independent trip across town.",
+    "instructions": "Consider what made you feel prepared or uncertain and what you learned about yourself.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-008",
+    "title": "After a museum visit",
+    "description": "You recently explored a local exhibition.",
+    "instructions": "Choose an exhibit that challenged an assumption and explain your response.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-009",
+    "title": "Reading between my reactions",
+    "description": "A novel produced a strong emotional response.",
+    "instructions": "Write about which personal experiences shaped your interpretation.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-010",
+    "title": "My spending choices",
+    "description": "You have tracked your own small purchases for a week.",
+    "instructions": "Identify a choice you regret or appreciate and explain how it connects to your priorities.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-011",
+    "title": "A week of movement",
+    "description": "You tried a new exercise routine.",
+    "instructions": "Assess how your motivation changed and which expectations were realistic.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-012",
+    "title": "Learning a new greeting",
+    "description": "You tried using an unfamiliar language in conversation.",
+    "instructions": "Describe how you felt and what the interaction taught you about being a beginner.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-013",
+    "title": "After the rehearsal",
+    "description": "You have completed a theater rehearsal.",
+    "instructions": "Examine how you reacted to feedback and what you want to approach differently.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-014",
+    "title": "The drawing I almost abandoned",
+    "description": "You finished an artwork after becoming frustrated.",
+    "instructions": "Trace the moments when your attitude changed and explain what kept you going.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-015",
+    "title": "A meaningful family story",
+    "description": "You heard a relative describe their childhood.",
+    "instructions": "Connect the story to your own assumptions about your family and identity.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-016",
+    "title": "What volunteering taught me",
+    "description": "You completed a shift at a community event.",
+    "instructions": "Reflect on a moment that changed your understanding of service.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-017",
+    "title": "My role in a disagreement",
+    "description": "A recent group discussion became tense.",
+    "instructions": "Describe your own behavior and consider an alternative response you could have chosen.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-018",
+    "title": "Before and after the science project",
+    "description": "You completed a classroom investigation.",
+    "instructions": "Compare what you initially believed with what you now understand about your learning process.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-019",
+    "title": "One photograph of my week",
+    "description": "You have several personal photos from the past week.",
+    "instructions": "Choose one and explain why it represents an important moment for you.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-020",
+    "title": "A difficult chess loss",
+    "description": "You lost a game you expected to win.",
+    "instructions": "Consider how you handled disappointment and what assumptions affected your choices.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-021",
+    "title": "The question I avoided",
+    "description": "You hesitated to ask for help during a lesson.",
+    "instructions": "Explore why you stayed quiet and what might help you speak up next time.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-022",
+    "title": "My changing relationship with technology",
+    "description": "You tried putting your phone away during meals.",
+    "instructions": "Describe what you noticed about your attention and whether your priorities shifted.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-023",
+    "title": "After the nature walk",
+    "description": "A recent outdoor visit left a strong impression.",
+    "instructions": "Explain how the experience affected your sense of connection to the place.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-024",
+    "title": "A mistake in the workshop",
+    "description": "You made an error while assembling an object.",
+    "instructions": "Examine how you responded and what the experience revealed about your patience.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-025",
+    "title": "What success means to me",
+    "description": "You reached a personal milestone.",
+    "instructions": "Explain whether the achievement felt as meaningful as you expected and why.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-026",
+    "title": "Revisiting an old goal",
+    "description": "You found a goal you wrote several months ago.",
+    "instructions": "Compare it with your current priorities and explain what has changed.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-027",
+    "title": "A moment of belonging",
+    "description": "You recently joined an unfamiliar group.",
+    "instructions": "Describe when you felt included and what that reveals about your needs.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-028",
+    "title": "My experience of feedback",
+    "description": "Someone offered suggestions on your writing.",
+    "instructions": "Separate your first emotional reaction from what you later found useful.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-029",
+    "title": "After a public presentation",
+    "description": "You delivered a short talk.",
+    "instructions": "Assess how your preparation affected your confidence and identify one personal lesson.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-030",
+    "title": "A neighborhood memory",
+    "description": "A familiar local place has changed.",
+    "instructions": "Write about how the change affects your understanding of home.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-031",
+    "title": "Learning to ask for help",
+    "description": "You relied on another person while completing a task.",
+    "instructions": "Consider what made asking difficult and how the experience affected your independence.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-032",
+    "title": "A day without my usual routine",
+    "description": "An unexpected event disrupted your plans.",
+    "instructions": "Describe how you adapted and what you discovered about your habits.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-033",
+    "title": "The project I postponed",
+    "description": "You delayed work on something important to you.",
+    "instructions": "Examine the reasons for the delay and identify a belief you want to reconsider.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-034",
+    "title": "My assumptions about an occupation",
+    "description": "You have returned from a job-shadow visit.",
+    "instructions": "Compare your expectations with your reactions and explain which assumption changed.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-035",
+    "title": "A compliment I remember",
+    "description": "Someone recognized an effort you made.",
+    "instructions": "Consider why that recognition mattered and what it reveals about your values.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-036",
+    "title": "After a community meeting",
+    "description": "You attended a discussion about a local issue.",
+    "instructions": "Reflect on which viewpoints you initially dismissed and why.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-037",
+    "title": "My learning timeline",
+    "description": "You have saved work from the beginning and end of a course.",
+    "instructions": "Compare the pieces and explain how your confidence and strategies developed.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-038",
+    "title": "A game with an unexpected outcome",
+    "description": "You took part in a cooperative game.",
+    "instructions": "Describe how your behavior changed when the outcome became uncertain.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-039",
+    "title": "What I noticed while listening",
+    "description": "You tried giving someone your full attention.",
+    "instructions": "Examine when your mind wandered and what you learned about your listening habits.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-040",
+    "title": "Trying something outside my comfort zone",
+    "description": "You recently attempted an unfamiliar activity.",
+    "instructions": "Explain which fear matched reality and which did not.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-041",
+    "title": "After the bake sale",
+    "description": "You helped at a fundraising event.",
+    "instructions": "Consider a moment when your priorities conflicted and how you made your choice.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-042",
+    "title": "My response to a challenging poem",
+    "description": "You read a poem that was difficult to understand.",
+    "instructions": "Describe how you handled uncertainty and what made you willing to keep reading.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-043",
+    "title": "The value behind a choice",
+    "description": "You had to choose between two appealing opportunities.",
+    "instructions": "Explain which personal value guided your decision and how you feel about it now.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-044",
+    "title": "A quieter leadership moment",
+    "description": "You supported a group without taking the lead.",
+    "instructions": "Reflect on what your contribution taught you about leadership.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-045",
+    "title": "The habit that helped me finish",
+    "description": "You completed a long task over several days.",
+    "instructions": "Identify which part of your routine helped and why it suited you.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-046",
+    "title": "After learning a family recipe",
+    "description": "You prepared a dish connected to your family's history.",
+    "instructions": "Explore how making it affected your connection to that history.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-047",
+    "title": "Reconsidering a first impression",
+    "description": "You got to know someone you initially misunderstood.",
+    "instructions": "Describe what changed and what you learned about making assumptions.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-048",
+    "title": "My reaction to uncertainty",
+    "description": "You attempted a task without clear directions.",
+    "instructions": "Consider how you made decisions and how comfortable you were with not knowing.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-049",
+    "title": "What I would tell my earlier self",
+    "description": "You are finishing a learning program.",
+    "instructions": "Write a letter explaining the lessons you wish you had understood at the start.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-reflection-050",
+    "title": "An unsuccessful prototype",
+    "description": "Your first design did not function as planned.",
+    "instructions": "Reflect on how you defined failure and whether your view changed during the project.",
+    "activityType": "REFLECTION",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-001",
+    "title": "Which soil holds water",
+    "description": "A garden needs soil that retains moisture.",
+    "instructions": "Compare reliable horticultural sources and summarize evidence about three soil mixtures.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-002",
+    "title": "The history of a local bridge",
+    "description": "A bridge is a familiar neighborhood landmark.",
+    "instructions": "Consult archives and dated records to establish when it was built and why.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-003",
+    "title": "Checking a nutrition claim",
+    "description": "An advertisement makes a claim about a snack.",
+    "instructions": "Locate the original evidence and assess whether the claim accurately represents it.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-004",
+    "title": "Comparing solar panels",
+    "description": "A school wants background information about solar power.",
+    "instructions": "Gather published efficiency data and explain differences between panel types.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-005",
+    "title": "Where a quotation came from",
+    "description": "A popular quotation is attributed to a famous writer.",
+    "instructions": "Trace the earliest reliable record and assess the attribution.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-006",
+    "title": "Bird migration routes",
+    "description": "You want to understand seasonal bird movements.",
+    "instructions": "Use species guides and migration records to compare the routes of two birds.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-007",
+    "title": "Transit accessibility evidence",
+    "description": "A neighborhood is discussing public transportation.",
+    "instructions": "Examine route maps and accessibility reports to identify documented service gaps.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-008",
+    "title": "How compost breaks down",
+    "description": "A gardening group wants an explanation of decomposition.",
+    "instructions": "Consult scientific references and synthesize the roles of moisture, air, and organisms.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-009",
+    "title": "Choosing trustworthy websites",
+    "description": "Several websites offer conflicting accounts of an event.",
+    "instructions": "Compare authorship, dates, supporting evidence, and citations before ranking credibility.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-010",
+    "title": "The origins of a musical style",
+    "description": "You are exploring a genre's development.",
+    "instructions": "Use music histories and recorded interviews to trace its influences.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-011",
+    "title": "Comparing library services",
+    "description": "Residents want to know what nearby libraries offer.",
+    "instructions": "Read official service pages and compile a sourced comparison.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-012",
+    "title": "Water use in food production",
+    "description": "You want to investigate the water footprint of foods.",
+    "instructions": "Compare published estimates and explain why their methods may produce different results.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-013",
+    "title": "A building's past uses",
+    "description": "An old neighborhood building has changed hands.",
+    "instructions": "Examine public archives to reconstruct a timeline of its documented uses.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-014",
+    "title": "What makes a password stronger",
+    "description": "A class needs evidence about account protection.",
+    "instructions": "Compare guidance from authoritative security sources and summarize their shared recommendations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-015",
+    "title": "Investigating packaging waste",
+    "description": "A club wants to understand local recycling rules.",
+    "instructions": "Read official municipal guidance and identify which packaging is accepted and why.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-016",
+    "title": "How bees communicate",
+    "description": "You have a question about insect behavior.",
+    "instructions": "Locate credible explanations and evidence for the ways honeybees share food locations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-017",
+    "title": "Comparing translations",
+    "description": "Two editions translate the same short passage differently.",
+    "instructions": "Consult translator notes and language references to investigate the differences.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-018",
+    "title": "The cost of a community event",
+    "description": "You are estimating resources for a hypothetical gathering.",
+    "instructions": "Collect published rental prices and document the assumptions behind a cost comparison.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-019",
+    "title": "A map of urban heat evidence",
+    "description": "Residents report that some streets feel hotter.",
+    "instructions": "Examine public temperature and tree-cover datasets for patterns and limitations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-020",
+    "title": "Fact-checking a historical image",
+    "description": "A photograph is circulating with an uncertain caption.",
+    "instructions": "Find its archive record and verify the date, place, and context.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-021",
+    "title": "Materials for a rain shelter",
+    "description": "A design project needs background evidence.",
+    "instructions": "Compare documented durability and water resistance of several materials.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-022",
+    "title": "The path of local drinking water",
+    "description": "You want to know where tap water comes from.",
+    "instructions": "Use official utility reports to explain its source and treatment stages.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-023",
+    "title": "How a voting system works",
+    "description": "A civics class is comparing decision methods.",
+    "instructions": "Consult neutral reference sources and compare the mechanics of two voting systems.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-024",
+    "title": "Surveying community reading interests",
+    "description": "A library needs information about residents' interests.",
+    "instructions": "Design a neutral questionnaire, collect consented responses, and summarize the patterns without identifying participants.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-025",
+    "title": "Investigating an invasive plant",
+    "description": "A species has been reported in your region.",
+    "instructions": "Check official species records and summarize evidence about its spread.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-026",
+    "title": "Comparing weather and climate",
+    "description": "A discussion confuses daily conditions with long-term trends.",
+    "instructions": "Use authoritative reference material and datasets to explain the distinction.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-027",
+    "title": "Where a word originated",
+    "description": "You are curious about an everyday expression.",
+    "instructions": "Consult etymological dictionaries and compare the documented explanations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-028",
+    "title": "Evidence about study spacing",
+    "description": "You want to understand different study schedules.",
+    "instructions": "Read research summaries and compare findings about spaced and concentrated study.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-029",
+    "title": "A neighborhood business timeline",
+    "description": "You are investigating changes along a commercial street.",
+    "instructions": "Compare archived directories and dated photographs to document openings and closures.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-030",
+    "title": "Understanding a chart's source",
+    "description": "A social media post displays an economic graph.",
+    "instructions": "Locate the original dataset and check whether the graph preserves its scale and context.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-031",
+    "title": "How musical instruments produce sound",
+    "description": "You are comparing strings and wind instruments.",
+    "instructions": "Consult acoustics references and explain the evidence behind their sound-producing mechanisms.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-032",
+    "title": "Comparing food preservation methods",
+    "description": "You are studying how food storage developed.",
+    "instructions": "Use reliable historical and scientific sources to compare the principles of drying and freezing.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-033",
+    "title": "The story behind a place name",
+    "description": "A street name has several local explanations.",
+    "instructions": "Search historical records and distinguish documented origins from unsupported stories.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-034",
+    "title": "Investigating light pollution",
+    "description": "A group wants evidence about nighttime lighting.",
+    "instructions": "Review environmental studies and identify their main findings and uncertainties.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-035",
+    "title": "How an algorithm sorts",
+    "description": "You want to understand alternative sorting methods.",
+    "instructions": "Consult technical references and compare their procedures and documented complexity.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-036",
+    "title": "Comparing public park facilities",
+    "description": "Residents need an inventory of local recreation spaces.",
+    "instructions": "Use official maps and facility listings to assemble a sourced comparison.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-037",
+    "title": "The effects of a river barrier",
+    "description": "You are investigating a dam's environmental history.",
+    "instructions": "Compare ecological reports and historical records, noting disagreements among sources.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-038",
+    "title": "Tracing a news report",
+    "description": "Several outlets repeat a striking claim.",
+    "instructions": "Follow their citations to the original source and assess what it actually establishes.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-039",
+    "title": "Patterns in rainfall records",
+    "description": "You have access to a public weather dataset.",
+    "instructions": "Calculate yearly totals and describe patterns with the dataset's limitations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-040",
+    "title": "Comparing insulation materials",
+    "description": "A model-house project needs material information.",
+    "instructions": "Look up thermal properties and summarize evidence for the available options.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-041",
+    "title": "Who uses the community center",
+    "description": "A planning exercise needs anonymous attendance information.",
+    "instructions": "Analyze an approved aggregate dataset and report participation patterns without inferring individual identities.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-042",
+    "title": "The development of animation",
+    "description": "You are studying changes in visual storytelling.",
+    "instructions": "Consult museum collections and technical histories to document major production methods.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-043",
+    "title": "Investigating pollinator-friendly plants",
+    "description": "A garden club needs region-specific background.",
+    "instructions": "Compare extension-service resources and identify plants supported by local guidance.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-044",
+    "title": "Why different maps disagree",
+    "description": "Two maps depict a coastline differently.",
+    "instructions": "Investigate their dates, projections, and data sources to explain the discrepancy.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-045",
+    "title": "How paper is recycled",
+    "description": "You are studying a material's lifecycle.",
+    "instructions": "Use industry and environmental references to trace processing steps and limitations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-046",
+    "title": "A comparison of oral-history accounts",
+    "description": "Several archived interviews describe the same event.",
+    "instructions": "Identify agreements and differences and consider how perspective affects the evidence.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-047",
+    "title": "Testing a claim about shadows",
+    "description": "You want evidence about how shadow length changes.",
+    "instructions": "Record measurements at set times and analyze whether they support your hypothesis.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-048",
+    "title": "Which search terms find better evidence",
+    "description": "A topic produces many irrelevant results.",
+    "instructions": "Compare search strategies and record which ones retrieve credible, relevant sources.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-049",
+    "title": "Local air quality patterns",
+    "description": "You have access to public monitoring records.",
+    "instructions": "Compare readings across dates and locations while documenting missing observations.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-research-050",
+    "title": "Understanding open-source licenses",
+    "description": "A class is comparing ways software can be shared.",
+    "instructions": "Read the original license texts and summarize their stated permissions and conditions.",
+    "activityType": "RESEARCH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-001",
+    "title": "Agreeing on garden priorities",
+    "description": "A group shares responsibility for a small garden.",
+    "instructions": "Discuss everyone's needs and reach a joint decision about which beds to prioritize.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-002",
+    "title": "Planning a shared meal",
+    "description": "Several people are organizing dinner together.",
+    "instructions": "Negotiate a menu and divide responsibilities so each person's constraints are considered.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-003",
+    "title": "A team coding plan",
+    "description": "Your group has different ideas for a small app.",
+    "instructions": "Compare proposals together and agree on the features and division of work.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-004",
+    "title": "Choosing a concert set list",
+    "description": "A music group must select songs for an event.",
+    "instructions": "Listen to each member's preferences and settle on a shared sequence.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-005",
+    "title": "A neighborhood walking route",
+    "description": "Residents want a route that suits different participants.",
+    "instructions": "Discuss access needs and negotiate a route everyone can support.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-006",
+    "title": "Group story decisions",
+    "description": "Several writers are developing one story.",
+    "instructions": "Exchange ideas and reach agreement on the characters and plot direction.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-007",
+    "title": "A shared budget meeting",
+    "description": "A club has limited funds for several proposals.",
+    "instructions": "Discuss tradeoffs together and agree on an allocation with recorded reasons.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-008",
+    "title": "Resolving rehearsal conflicts",
+    "description": "Performers have overlapping availability problems.",
+    "instructions": "Work through the conflicts and negotiate a rehearsal schedule acceptable to the group.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-009",
+    "title": "Team puzzle roles",
+    "description": "A group must solve a multi-part puzzle together.",
+    "instructions": "Share clues, coordinate responsibilities, and combine partial solutions through discussion.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-010",
+    "title": "Choosing a museum theme",
+    "description": "A class has competing ideas for an exhibit.",
+    "instructions": "Build a common set of selection criteria and use them to reach consensus.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-011",
+    "title": "Peer writing exchange",
+    "description": "Writers want feedback before revising their drafts.",
+    "instructions": "Exchange drafts, discuss suggestions, and agree on useful next steps with each partner.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-012",
+    "title": "Planning a cleanup together",
+    "description": "Volunteers need to coordinate a neighborhood cleanup.",
+    "instructions": "Discuss available time and abilities and jointly assign tasks and meeting points.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-013",
+    "title": "A club agreement",
+    "description": "Members want clearer expectations for meetings.",
+    "instructions": "Negotiate shared norms and confirm that every member can explain the agreement.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-014",
+    "title": "Two designs one direction",
+    "description": "Teammates prefer different solutions to a design problem.",
+    "instructions": "Compare the proposals together and agree on a combined direction.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-015",
+    "title": "Community event roles",
+    "description": "An organizing group needs a coordinated plan.",
+    "instructions": "Discuss responsibilities and dependencies and confirm a shared assignment of roles.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-016",
+    "title": "A group reading conversation",
+    "description": "Readers have different interpretations of a chapter.",
+    "instructions": "Compare interpretations, respond to each other, and formulate a joint account of the main disagreement.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-017",
+    "title": "Sharing limited equipment",
+    "description": "Several teams need the same tools.",
+    "instructions": "Negotiate a fair usage schedule and agree on how changes will be handled.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-018",
+    "title": "A sports team check-in",
+    "description": "Players want to improve coordination.",
+    "instructions": "Discuss what each person needs from teammates and agree on shared communication signals.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-019",
+    "title": "Joint travel planning",
+    "description": "A group has different preferences for a day trip.",
+    "instructions": "Compare everyone's priorities and settle on an itinerary within common constraints.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-020",
+    "title": "A shared science procedure",
+    "description": "Lab partners disagree about how to divide a task.",
+    "instructions": "Discuss the sequence together and agree on roles and handoff points.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-021",
+    "title": "Planning a peer support circle",
+    "description": "Students want a regular place to help each other.",
+    "instructions": "Agree together on meeting structure, participation expectations, and rotating responsibilities.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-022",
+    "title": "Building agreement about a mural",
+    "description": "A neighborhood group has several mural concepts.",
+    "instructions": "Facilitate a discussion of the proposals and reach a jointly supported choice.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-023",
+    "title": "Team feedback on a prototype",
+    "description": "Members have tested different parts of a shared design.",
+    "instructions": "Pool observations and agree on which issues the team should address first.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-024",
+    "title": "A family calendar discussion",
+    "description": "Household members have conflicting plans.",
+    "instructions": "Compare commitments and negotiate a schedule that respects everyone's priorities.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-025",
+    "title": "Planning an accessible gathering",
+    "description": "Organizers have identified different participation needs.",
+    "instructions": "Discuss possible arrangements together and agree on practical accommodations.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-026",
+    "title": "Partner interpretation",
+    "description": "Two learners disagree about the meaning of a poem.",
+    "instructions": "Exchange reasons and develop a shared explanation that acknowledges both readings.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-027",
+    "title": "A joint project rescue",
+    "description": "A group project has fallen behind schedule.",
+    "instructions": "Discuss obstacles openly and negotiate a revised plan with clear shared commitments.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-028",
+    "title": "Choosing a service project",
+    "description": "Club members support several community causes.",
+    "instructions": "Hear each proposal and use an agreed process to choose one together.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-029",
+    "title": "Coordinating a relay",
+    "description": "Team members need reliable transitions.",
+    "instructions": "Discuss responsibilities and jointly agree on the timing and communication for handoffs.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-030",
+    "title": "A shared editing session",
+    "description": "Several contributors are reviewing one newsletter.",
+    "instructions": "Discuss conflicting edits and reach agreement on the final changes.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-031",
+    "title": "Community listening priorities",
+    "description": "A group has gathered residents' suggestions.",
+    "instructions": "Review them together and negotiate which concerns should be addressed first.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-032",
+    "title": "Solving a resource challenge",
+    "description": "A team has limited materials for a task.",
+    "instructions": "Pool ideas and agree on how to distribute materials before beginning.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-033",
+    "title": "Planning a group presentation",
+    "description": "Each member has a different part to contribute.",
+    "instructions": "Coordinate the order and transitions and agree on a coherent shared message.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-034",
+    "title": "A committee decision",
+    "description": "A small committee must choose between two event locations.",
+    "instructions": "Discuss the tradeoffs and document a decision supported by the members.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-035",
+    "title": "Shared rules for a game",
+    "description": "Players disagree about an ambiguous rule.",
+    "instructions": "Hear each interpretation and negotiate a rule everyone accepts before continuing.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-036",
+    "title": "A partner debugging discussion",
+    "description": "Two programmers have different explanations for an error.",
+    "instructions": "Compare their reasoning together and agree on the next diagnostic steps.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-037",
+    "title": "Organizing a book swap",
+    "description": "Volunteers need a common approach to the event.",
+    "instructions": "Negotiate responsibilities, timing, and how disagreements will be resolved.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-038",
+    "title": "Team priorities after feedback",
+    "description": "A project group has received many suggestions.",
+    "instructions": "Discuss which suggestions matter most and agree on a shared revision order.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-039",
+    "title": "A group map of ideas",
+    "description": "Participants bring different views of a local issue.",
+    "instructions": "Connect their ideas through discussion and build an agreed outline of common ground.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-040",
+    "title": "Negotiating shared workspace",
+    "description": "Several makers use the same room.",
+    "instructions": "Discuss competing needs and agree on storage and cleanup responsibilities.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-041",
+    "title": "Planning an intergenerational event",
+    "description": "Younger and older participants have different preferences.",
+    "instructions": "Exchange ideas and jointly settle on activities that both groups support.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-042",
+    "title": "A shared listening exercise",
+    "description": "Partners each have part of the information needed for a task.",
+    "instructions": "Take turns explaining what you know and combine it into a joint solution.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-043",
+    "title": "Group decision with rotating roles",
+    "description": "A team wants broader participation in its planning.",
+    "instructions": "Rotate facilitator and note-taker roles while reaching a shared decision.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-044",
+    "title": "A collaborative critique circle",
+    "description": "Artists want to discuss unfinished work.",
+    "instructions": "Offer specific observations, respond to others' suggestions, and agree on helpful feedback for each person.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-045",
+    "title": "Coordinating a community survey",
+    "description": "Team members need a consistent collection plan.",
+    "instructions": "Discuss assignments and agree on a common procedure and schedule.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-046",
+    "title": "Reconciling two event plans",
+    "description": "Two committees have proposed overlapping activities.",
+    "instructions": "Meet to negotiate a single coordinated schedule and clear responsibilities.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-047",
+    "title": "A group conflict conversation",
+    "description": "A disagreement is preventing progress on a shared task.",
+    "instructions": "Hear each person's concerns and work toward an agreement about how to proceed.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-048",
+    "title": "Designing a fair selection process",
+    "description": "Members need to choose among several submissions.",
+    "instructions": "Discuss fairness criteria and jointly agree on the selection procedure.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-049",
+    "title": "Planning a shared performance",
+    "description": "Participants want different amounts of stage time.",
+    "instructions": "Negotiate an arrangement and confirm that everyone understands their contribution.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-collaborate-050",
+    "title": "Closing a team meeting",
+    "description": "A project discussion has produced several possible actions.",
+    "instructions": "Check understanding together and agree on the next steps and responsible people.",
+    "activityType": "COLLABORATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-001",
+    "title": "A balcony garden layout",
+    "description": "A small balcony needs an original planting arrangement.",
+    "instructions": "Draw a scaled layout showing containers, walking space, and sunlight placement.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-002",
+    "title": "An illustrated recipe card",
+    "description": "A familiar dish needs a clear visual presentation.",
+    "instructions": "Design a recipe card with your own drawings and layout.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-003",
+    "title": "A small reminder app",
+    "description": "You want a tool for tracking personal tasks.",
+    "instructions": "Build an app that lets a user add, complete, and remove reminders.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-004",
+    "title": "An original melody",
+    "description": "A short piece of music will open a gathering.",
+    "instructions": "Compose and record a melody with a beginning, middle, and ending.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-005",
+    "title": "A neighborhood sound collage",
+    "description": "You have recordings made with permission around your area.",
+    "instructions": "Arrange the sounds into an original audio composition.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-006",
+    "title": "A short mystery",
+    "description": "A story collection needs a new fictional piece.",
+    "instructions": "Write a mystery with clues that support its final reveal.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-007",
+    "title": "A reusable event sign",
+    "description": "A community venue needs adaptable signage.",
+    "instructions": "Design and make a sign with replaceable event details.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-008",
+    "title": "A tabletop game",
+    "description": "Players need a new cooperative game.",
+    "instructions": "Invent the rules, make the playing pieces, and assemble a playable version.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-009",
+    "title": "A museum exhibit mockup",
+    "description": "You want to present a historical topic visually.",
+    "instructions": "Construct an original miniature exhibit with objects, captions, and a clear layout.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-010",
+    "title": "A rainwater collector model",
+    "description": "A design challenge calls for a small working prototype.",
+    "instructions": "Sketch your own mechanism and build a model that directs water into a container.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-011",
+    "title": "A personal portfolio website",
+    "description": "You need a place to present your work.",
+    "instructions": "Design and code pages with original navigation and a consistent visual style.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-012",
+    "title": "A poem about a familiar place",
+    "description": "A local setting has details you want to capture.",
+    "instructions": "Write an original poem using specific imagery from that place.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-013",
+    "title": "A poster for a book swap",
+    "description": "An upcoming event needs a visual announcement.",
+    "instructions": "Produce a poster with your own composition, lettering, and illustrations.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-014",
+    "title": "A stop-motion scene",
+    "description": "You want to tell a story through moving objects.",
+    "instructions": "Build a set and photograph a sequence that becomes a short original animation.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-015",
+    "title": "A cardboard organizer",
+    "description": "A desk has supplies that need a custom arrangement.",
+    "instructions": "Design and construct compartments suited to the objects you want to store.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-016",
+    "title": "A comic about a misunderstanding",
+    "description": "You have an idea for a humorous encounter.",
+    "instructions": "Draw an original comic sequence with a clear setup and resolution.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-017",
+    "title": "A simple weather display",
+    "description": "You want a visual interface for weather data.",
+    "instructions": "Build a display that turns supplied readings into a clear original layout.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-018",
+    "title": "A fabric patch design",
+    "description": "A community group wants a symbol for an event.",
+    "instructions": "Draw and stitch an original patch using shapes and colors of your choice.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-019",
+    "title": "A photo essay",
+    "description": "You want to tell a visual story about everyday life.",
+    "instructions": "Select and sequence your own photographs with captions to form an original essay.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-020",
+    "title": "An accessible game controller mockup",
+    "description": "A design exercise focuses on comfortable controls.",
+    "instructions": "Create a physical mockup with a new arrangement of buttons and grips.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-021",
+    "title": "A recycled-material sculpture",
+    "description": "Discarded clean materials are available for an art project.",
+    "instructions": "Assemble them into an original three-dimensional work.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-022",
+    "title": "A fictional radio segment",
+    "description": "You want to imagine a broadcast from another time.",
+    "instructions": "Write and record an original segment with dialogue and sound effects.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-023",
+    "title": "A budget tracker template",
+    "description": "You need a reusable way to organize expenses.",
+    "instructions": "Design a spreadsheet with your own categories, formulas, and summary view.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-024",
+    "title": "A shadow puppet",
+    "description": "A performance needs a new character.",
+    "instructions": "Design, cut, and assemble a puppet with movable features.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-025",
+    "title": "An invitation with a visual theme",
+    "description": "A gathering needs a distinctive invitation.",
+    "instructions": "Create an original layout that combines readable details with a consistent theme.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-026",
+    "title": "A miniature shelter",
+    "description": "A model landscape needs a small protective structure.",
+    "instructions": "Design and build a shelter using the available materials.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-027",
+    "title": "A word puzzle",
+    "description": "You want to challenge readers with a new puzzle.",
+    "instructions": "Invent clues and arrange them into a solvable original word grid.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-028",
+    "title": "A digital pattern",
+    "description": "A fabric project needs a repeating design.",
+    "instructions": "Draw a motif and build a seamless repeating pattern from it.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-029",
+    "title": "A story map",
+    "description": "A fictional journey needs a setting.",
+    "instructions": "Design a map with invented places, routes, and a consistent visual legend.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-030",
+    "title": "A handmade notebook",
+    "description": "You want a notebook with a custom format.",
+    "instructions": "Choose the page layout, create a cover, and bind the pages into a finished object.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-031",
+    "title": "An interactive quiz",
+    "description": "A community website needs a playful feature.",
+    "instructions": "Build an original quiz with questions, feedback, and a results screen.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-032",
+    "title": "A stage prop",
+    "description": "A fictional scene requires an unusual object.",
+    "instructions": "Design and construct a lightweight prop that communicates its role from a distance.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-033",
+    "title": "A short documentary edit",
+    "description": "You have permission to use a collection of interview clips.",
+    "instructions": "Shape the clips into an original short film with a coherent narrative.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-034",
+    "title": "A paper engineering card",
+    "description": "You want a greeting card with movement.",
+    "instructions": "Design and assemble a pop-up mechanism within an original card.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-035",
+    "title": "A new board-game token set",
+    "description": "A game needs visually distinct pieces.",
+    "instructions": "Design and make a coordinated set of original tokens.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-036",
+    "title": "A local-history zine",
+    "description": "You have sourced material about your neighborhood.",
+    "instructions": "Turn the material into an original illustrated booklet with your own page design.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-037",
+    "title": "A tactile map prototype",
+    "description": "A room needs a map that can be explored by touch.",
+    "instructions": "Build a raised-surface prototype with distinct textures and a legend.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-038",
+    "title": "An original dance phrase",
+    "description": "A performance needs a brief new movement sequence.",
+    "instructions": "Compose a sequence with intentional changes of direction, level, and rhythm.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-039",
+    "title": "A custom bookmark",
+    "description": "You want a small object that represents a favorite story.",
+    "instructions": "Design and make a bookmark using original imagery inspired by your interpretation.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-040",
+    "title": "A plant-watering indicator",
+    "description": "A prototype challenge asks for a visible moisture signal.",
+    "instructions": "Design and assemble a device that displays a change when its sensor reading changes.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-041",
+    "title": "A fictional character portrait",
+    "description": "A story idea needs a visually distinctive protagonist.",
+    "instructions": "Draw the character and invent clothing and objects that suggest their history.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-042",
+    "title": "A community newsletter layout",
+    "description": "A set of articles needs a consistent presentation.",
+    "instructions": "Create an original page system with headings, columns, and image placement.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-043",
+    "title": "A marble-run design",
+    "description": "You have materials for a tabletop construction challenge.",
+    "instructions": "Build a new track that carries a marble through several connected features.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-044",
+    "title": "A reusable shopping bag",
+    "description": "You want a bag tailored to a particular use.",
+    "instructions": "Create a pattern and sew a bag with your chosen dimensions and pocket arrangement.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-045",
+    "title": "A nature-inspired mobile",
+    "description": "Collected permitted materials can be used for an artwork.",
+    "instructions": "Design and balance a hanging composition with an original arrangement.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-046",
+    "title": "A greeting in animation",
+    "description": "A digital card needs a brief moving sequence.",
+    "instructions": "Draw and animate an original greeting with deliberate timing.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-047",
+    "title": "A fictional menu",
+    "description": "An imaginary cafe needs a distinctive identity.",
+    "instructions": "Invent dishes and design a menu that expresses the cafe's character.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-048",
+    "title": "A data visualization design",
+    "description": "You have a small supplied dataset.",
+    "instructions": "Create an original chart layout that communicates its main pattern clearly.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-049",
+    "title": "A modular storage prototype",
+    "description": "A workspace needs containers that fit together.",
+    "instructions": "Design and build a set of interlocking modules.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-create-050",
+    "title": "A closing song verse",
+    "description": "A group event needs an original farewell.",
+    "instructions": "Write a new verse and fit it to a melody you compose.",
+    "activityType": "CREATE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-001",
+    "title": "Steady planting depth",
+    "description": "You want more consistent seed placement.",
+    "instructions": "Repeat placing practice markers at the specified depth and check each attempt against a guide.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-002",
+    "title": "Knife-free measuring drills",
+    "description": "You are learning to measure cooking ingredients accurately.",
+    "instructions": "Measure several portions with cups and spoons, check them, and repeat inaccurate attempts.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-003",
+    "title": "Loop-writing repetitions",
+    "description": "You understand basic programming loops but need fluency.",
+    "instructions": "Solve ten short loop exercises and redo the ones with errors.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-004",
+    "title": "Smooth chord changes",
+    "description": "You want cleaner transitions on a guitar.",
+    "instructions": "Repeat two chord changes slowly, checking finger placement before increasing speed.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-005",
+    "title": "Basketball free throws",
+    "description": "You are working on a consistent shooting routine.",
+    "instructions": "Take repeated shots from the same position and adjust your technique using the results.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-006",
+    "title": "Fraction calculations",
+    "description": "You need greater accuracy adding fractions.",
+    "instructions": "Complete a set of problems, check your answers, and retry missed problem types.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-007",
+    "title": "Reading aloud with pauses",
+    "description": "You want clearer spoken delivery.",
+    "instructions": "Read the same passage several times, adjusting pauses after listening to each recording.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-008",
+    "title": "Keyboard accuracy rounds",
+    "description": "You are learning touch typing.",
+    "instructions": "Type short passages repeatedly while tracking errors and keeping your eyes off the keys.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-009",
+    "title": "Pronouncing a new sound",
+    "description": "A language sound is difficult for you.",
+    "instructions": "Repeat a set of words, compare with a reference recording, and adjust your pronunciation.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-010",
+    "title": "A speech opening",
+    "description": "You want to begin a presentation confidently.",
+    "instructions": "Rehearse the opening several times while adjusting pace and volume.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-011",
+    "title": "Parallel pencil lines",
+    "description": "You are improving control of your drawing hand.",
+    "instructions": "Fill several rows with parallel lines and repeat the angles that drift.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-012",
+    "title": "Chess endgame drills",
+    "description": "You know a basic checkmate pattern but apply it inconsistently.",
+    "instructions": "Solve several positions using the pattern and repeat the ones you miss.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-013",
+    "title": "Controlled dance turns",
+    "description": "You want more consistent balance during a turn.",
+    "instructions": "Repeat the movement at a comfortable pace and correct your starting position between attempts.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-014",
+    "title": "Multiplication recall",
+    "description": "You want faster recall of multiplication facts.",
+    "instructions": "Work through short timed sets and repeat the facts that cause hesitation.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-015",
+    "title": "Email formatting exercises",
+    "description": "You are learning to write clear workplace messages.",
+    "instructions": "Revise several sample messages using the same checklist and correct missed elements.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-016",
+    "title": "A sewing seam drill",
+    "description": "You want straighter seams on fabric.",
+    "instructions": "Sew repeated practice lines on scraps and adjust your guiding technique after each line.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-017",
+    "title": "Camera focus trials",
+    "description": "You are learning to control manual focus.",
+    "instructions": "Photograph the same stationary subject at several distances and repeat blurred attempts.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-018",
+    "title": "Swimming stroke rehearsal",
+    "description": "A supervised lesson includes a familiar stroke drill.",
+    "instructions": "Repeat the assigned movement within the instructor's limits and apply the feedback between attempts.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-019",
+    "title": "Mental estimation rounds",
+    "description": "You want to estimate totals more accurately.",
+    "instructions": "Estimate several sums before calculating them and repeat with new sets at the same difficulty.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-020",
+    "title": "Drumming with a metronome",
+    "description": "You are working on keeping a steady beat.",
+    "instructions": "Repeat a short rhythm at a slow tempo and restart when you lose the pulse.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-021",
+    "title": "Map-symbol recall",
+    "description": "You need fluency recognizing standard map symbols.",
+    "instructions": "Work through several identification rounds and revisit the symbols you confuse.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-022",
+    "title": "A greeting sequence",
+    "description": "You know the words for a short conversation in another language.",
+    "instructions": "Rehearse both parts repeatedly until you can respond without reading.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-023",
+    "title": "Spreadsheet formula exercises",
+    "description": "You want to become more accurate using cell references.",
+    "instructions": "Complete a series of formula tasks and correct reference errors before trying the next set.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-024",
+    "title": "A theater cue drill",
+    "description": "You need to enter at the right moment in a scene.",
+    "instructions": "Repeat the cue and entrance sequence until your timing is consistent.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-025",
+    "title": "Drawing basic ellipses",
+    "description": "You want smoother shapes in your sketches.",
+    "instructions": "Draw repeated ellipses at different angles and compare their symmetry.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-026",
+    "title": "Soccer passing accuracy",
+    "description": "You want better control on short passes.",
+    "instructions": "Send repeated passes toward a target and adjust foot placement based on where they land.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-027",
+    "title": "Listening for musical intervals",
+    "description": "You are learning to distinguish two interval types.",
+    "instructions": "Complete repeated listening rounds and replay the pairs you misidentify.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-028",
+    "title": "A knot-tying exercise",
+    "description": "You are learning a basic craft knot.",
+    "instructions": "Tie and untie it repeatedly, checking each finished knot against the demonstration.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-029",
+    "title": "Editing punctuation",
+    "description": "You want to recognize sentence punctuation errors.",
+    "instructions": "Correct several short passages and repeat the error types you miss.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-030",
+    "title": "A balance sequence",
+    "description": "You are rehearsing a familiar low-risk movement pattern.",
+    "instructions": "Repeat the sequence within your comfort level and focus on controlled transitions.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-031",
+    "title": "File organization drills",
+    "description": "You are learning a consistent computer filing routine.",
+    "instructions": "Sort several sample folders using the rules and redo any misplaced files.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-032",
+    "title": "Origami fold accuracy",
+    "description": "You want cleaner execution of a known paper fold.",
+    "instructions": "Make the same simple model several times and compare alignment at each step.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-033",
+    "title": "Measuring with a ruler",
+    "description": "You need more accurate length measurements.",
+    "instructions": "Measure a set of objects twice and repeat readings that disagree.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-034",
+    "title": "An interview response rehearsal",
+    "description": "You want to explain your experience more clearly.",
+    "instructions": "Answer the same sample question several times and refine the structure after each attempt.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-035",
+    "title": "Reading a rhythm pattern",
+    "description": "You are learning to perform written rhythms.",
+    "instructions": "Clap a short pattern repeatedly and compare the timing with a reference beat.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-036",
+    "title": "Catching a soft ball",
+    "description": "You want more reliable hand coordination.",
+    "instructions": "Repeat short gentle toss-and-catch attempts and adjust your hand position.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-037",
+    "title": "Color-mixing trials",
+    "description": "You want to reproduce a specific paint shade reliably.",
+    "instructions": "Mix small batches repeatedly, compare them with a target, and adjust the proportions.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-038",
+    "title": "A debugging exercise set",
+    "description": "You know how to identify a common coding error.",
+    "instructions": "Fix several short examples and revisit the ones that still fail their checks.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-039",
+    "title": "Spelling retrieval rounds",
+    "description": "You want to remember a set of difficult words.",
+    "instructions": "Write the words from memory, check them, and repeat the misspelled ones.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-040",
+    "title": "Controlled brush strokes",
+    "description": "You are learning to vary line width with a brush.",
+    "instructions": "Repeat rows of thin-to-thick strokes while adjusting pressure consistently.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-041",
+    "title": "A presentation transition",
+    "description": "You want to move smoothly between two topics.",
+    "instructions": "Rehearse the transition repeatedly and reduce unnecessary pauses.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-042",
+    "title": "Estimating elapsed time",
+    "description": "You want to improve your sense of short durations.",
+    "instructions": "Estimate several intervals, compare with a timer, and try another round.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-043",
+    "title": "A familiar melody from memory",
+    "description": "You know a short tune but hesitate in the middle.",
+    "instructions": "Play it repeatedly and isolate the measures that interrupt your flow.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-044",
+    "title": "Search syntax exercises",
+    "description": "You are learning a database's query syntax.",
+    "instructions": "Complete a set of supplied queries and correct syntax errors before repeating them.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-045",
+    "title": "Handwriting consistency",
+    "description": "You want more even letter spacing.",
+    "instructions": "Write the same short sentence several times and adjust spacing against a guide.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-046",
+    "title": "A badminton serve drill",
+    "description": "You want more consistent placement of a familiar serve.",
+    "instructions": "Repeat serves toward a marked area and adjust your motion between rounds.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-047",
+    "title": "Following spoken directions",
+    "description": "You are improving recall of short instruction sequences.",
+    "instructions": "Complete several sequences and repeat at the same length when steps are missed.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-048",
+    "title": "A proofreading speed round",
+    "description": "You can spot common typos but want greater fluency.",
+    "instructions": "Check several short texts and revisit the mistakes left uncorrected.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-049",
+    "title": "A safe tool-grip rehearsal",
+    "description": "An instructor has demonstrated a basic grip using an unpowered practice tool.",
+    "instructions": "Repeat the positioning sequence and check your grip against the demonstration.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-practice-050",
+    "title": "Reading clock faces",
+    "description": "You are learning to tell time on an analog clock.",
+    "instructions": "Answer several rounds of clock-face questions and repeat the times you misread.",
+    "activityType": "PRACTICE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-001",
+    "title": "A morning in a community garden",
+    "description": "You have permission to visit a working garden.",
+    "instructions": "Walk through the beds with the host and encounter the sights, sounds, and seasonal work firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-002",
+    "title": "Watching a bakery open",
+    "description": "A baker has invited visitors to observe the morning routine.",
+    "instructions": "Accompany the host through the permitted areas and watch how the workspace comes to life.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-003",
+    "title": "An open rehearsal visit",
+    "description": "A music group welcomes observers.",
+    "instructions": "Attend the rehearsal and experience how a live ensemble sounds from within the room.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-004",
+    "title": "A first museum visit",
+    "description": "A local exhibition is open to visitors.",
+    "instructions": "Move through the galleries and encounter the objects and installations directly.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-005",
+    "title": "A guided wetland walk",
+    "description": "A nature center offers a supervised visit.",
+    "instructions": "Follow the guide and observe the wetland's plants and animals in their habitat.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-006",
+    "title": "A day beside a craftsperson",
+    "description": "A craftsperson has arranged a job-shadow opportunity.",
+    "instructions": "Observe the normal workday and follow the host's guidance in the workshop.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-007",
+    "title": "Riding an unfamiliar transit route",
+    "description": "You have a planned and appropriate opportunity to use local transit.",
+    "instructions": "Take the route and experience its stops, transfers, and surroundings firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-008",
+    "title": "A live theater audience",
+    "description": "You are attending a staged performance.",
+    "instructions": "Watch the production in the venue and notice the shared atmosphere of the audience.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-009",
+    "title": "Visiting a farmers market",
+    "description": "A market offers a chance to encounter local food culture.",
+    "instructions": "Walk through the stalls and observe the interactions and products with permission.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-010",
+    "title": "An observatory evening",
+    "description": "An observatory is holding a public viewing session.",
+    "instructions": "Attend the session and look through the provided telescope under staff guidance.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-011",
+    "title": "A cultural festival visit",
+    "description": "A public festival welcomes visitors.",
+    "instructions": "Participate respectfully in the open activities and encounter the event's sounds and traditions.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-012",
+    "title": "A fire station open house",
+    "description": "Staff are welcoming the public into designated areas.",
+    "instructions": "Join the tour and experience the setting and equipment through the host's demonstrations.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-013",
+    "title": "A courthouse visitor tour",
+    "description": "A civic venue offers a public orientation.",
+    "instructions": "Follow the guide through permitted areas and observe the environment firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-014",
+    "title": "A behind-the-scenes library visit",
+    "description": "Library staff offer a tour of their daily work.",
+    "instructions": "Accompany the host and see the normally unseen parts of the service.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-015",
+    "title": "A botanical greenhouse walk",
+    "description": "A greenhouse is open for supervised visits.",
+    "instructions": "Move through the space and encounter its temperature, plants, and textures without disturbing them.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-016",
+    "title": "An outdoor sculpture trail",
+    "description": "A public trail contains large artworks.",
+    "instructions": "Follow the trail and experience the sculptures from different viewpoints.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-017",
+    "title": "A community meeting as an observer",
+    "description": "A public meeting welcomes attendees.",
+    "instructions": "Attend and witness how the meeting unfolds without taking on a planning role.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-018",
+    "title": "A supervised canoe outing",
+    "description": "Qualified leaders are running a beginner outing.",
+    "instructions": "Join the guided trip with the required equipment and experience traveling on the water.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-019",
+    "title": "A train museum demonstration",
+    "description": "A museum is operating a historical display.",
+    "instructions": "Watch and listen to the demonstration in the designated visitor area.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-020",
+    "title": "A pottery studio open day",
+    "description": "A studio invites visitors to see its working environment.",
+    "instructions": "Tour the space and observe the materials and ongoing processes firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-021",
+    "title": "A guided cave visit",
+    "description": "A visitor center offers an established supervised route.",
+    "instructions": "Follow the guide and encounter the cave's scale, light, and acoustics.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-022",
+    "title": "A community kitchen visit",
+    "description": "A host has arranged an observation visit.",
+    "instructions": "See the rhythm of meal preparation and service from the permitted visitor area.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-023",
+    "title": "A live poetry reading",
+    "description": "Writers are presenting their work to an audience.",
+    "instructions": "Attend and experience the poems through the authors' voices and delivery.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-024",
+    "title": "A shoreline discovery walk",
+    "description": "A guide is leading a permitted coastal visit.",
+    "instructions": "Explore the designated route and observe the changing shoreline firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-025",
+    "title": "A radio studio tour",
+    "description": "A station welcomes a small visitor group.",
+    "instructions": "Follow the host and observe how the studio feels and sounds during normal operation.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-026",
+    "title": "A heritage home visit",
+    "description": "A historic house is open to the public.",
+    "instructions": "Walk through its rooms and encounter the preserved spaces and objects directly.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-027",
+    "title": "A sensory garden visit",
+    "description": "A garden provides designated touch and scent areas.",
+    "instructions": "Follow the posted guidance while experiencing the plants through the permitted senses.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-028",
+    "title": "An urban architecture walk",
+    "description": "A guide is leading a tour of public streets.",
+    "instructions": "Encounter the buildings at street level and notice their scale and surroundings.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-029",
+    "title": "A science center immersion",
+    "description": "An exhibition includes hands-on interactive installations.",
+    "instructions": "Explore the installations as a visitor and experience their responses firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-030",
+    "title": "A local sports event",
+    "description": "A community team is playing in a public venue.",
+    "instructions": "Attend as a spectator and experience the flow and atmosphere of the event.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-031",
+    "title": "A supervised farm visit",
+    "description": "A working farm has arranged a visitor session.",
+    "instructions": "Follow the host and encounter the animals and workspaces from approved areas.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-032",
+    "title": "A sound walk",
+    "description": "A public route offers varied acoustic environments.",
+    "instructions": "Walk the route quietly and listen to the changes in sound around you.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-033",
+    "title": "An aquarium visit",
+    "description": "A public aquarium displays several habitats.",
+    "instructions": "Observe the animals moving through the exhibits and experience the spaces firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-034",
+    "title": "A community celebration",
+    "description": "Residents are holding an open neighborhood gathering.",
+    "instructions": "Attend the public activities and experience how the community marks the occasion.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-035",
+    "title": "A weaving demonstration visit",
+    "description": "An artisan is demonstrating a loom.",
+    "instructions": "Watch the demonstration close up from the visitor area and encounter the process directly.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-036",
+    "title": "A guided forest outing",
+    "description": "A leader has planned an accessible woodland route.",
+    "instructions": "Join the outing and experience the forest's changing light and sounds.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-037",
+    "title": "A food tasting event",
+    "description": "A host offers labeled samples suitable for your dietary needs.",
+    "instructions": "Try the appropriate samples and attend to their textures, aromas, and flavors.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-038",
+    "title": "A planetarium show",
+    "description": "A venue presents an immersive astronomy program.",
+    "instructions": "Attend the show and experience the projected sky and narration.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-039",
+    "title": "A public art installation",
+    "description": "An artist has created a walk-through installation.",
+    "instructions": "Move through the permitted space and experience how the work changes with your position.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-040",
+    "title": "A water treatment visitor center",
+    "description": "The facility offers a designated public tour.",
+    "instructions": "Follow staff through approved spaces and observe the scale of the operation.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-041",
+    "title": "A mock town simulation",
+    "description": "A learning center offers an immersive civic scenario.",
+    "instructions": "Take part in the guided simulation and experience the sequence of everyday civic interactions.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-042",
+    "title": "A historical reenactment",
+    "description": "A museum is hosting a public living-history event.",
+    "instructions": "Attend and encounter the setting, clothing, and demonstrations as a visitor.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-043",
+    "title": "A guided campus visit",
+    "description": "A school welcomes prospective learners.",
+    "instructions": "Tour the learning spaces and experience the environment during the visit.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-044",
+    "title": "A public dance performance",
+    "description": "A troupe is presenting work in an open venue.",
+    "instructions": "Watch the performance and experience the movement and live atmosphere.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-045",
+    "title": "A riverboat tour",
+    "description": "A licensed operator offers a guided sightseeing trip.",
+    "instructions": "Join the tour and encounter the river landscape from the water.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-046",
+    "title": "A virtual museum walkthrough",
+    "description": "An accessible immersive tour is available online.",
+    "instructions": "Navigate the exhibition spaces and experience the arranged views and audio as a visitor.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-047",
+    "title": "A makerspace open house",
+    "description": "A shared workshop offers supervised demonstrations.",
+    "instructions": "Visit the stations and observe the equipment operating under staff control.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-048",
+    "title": "A nighttime nature program",
+    "description": "A nature center offers a supervised evening event.",
+    "instructions": "Follow the guided route and encounter the environment after dark.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-049",
+    "title": "A market-day walking tour",
+    "description": "A local guide introduces visitors to a public market.",
+    "instructions": "Accompany the guide and experience the pace and variety of the place firsthand.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-experience-050",
+    "title": "An orchestra sound check",
+    "description": "A venue has invited observers before a concert.",
+    "instructions": "Listen from the designated area and experience how the room fills with live sound.",
+    "activityType": "EXPERIENCE",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-001",
+    "title": "Help a neighbor start seeds",
+    "description": "A beginner wants to understand planting depth.",
+    "instructions": "Demonstrate the steps, explain your choices, and ask the learner to show you their understanding.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-002",
+    "title": "Show someone a family recipe",
+    "description": "A learner has never prepared the dish.",
+    "instructions": "Guide them through the sequence, explain unfamiliar terms, and answer their questions.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-003",
+    "title": "Explain a programming loop",
+    "description": "A beginner is confused about repeated instructions.",
+    "instructions": "Use a small example to explain a loop and help the learner trace what it does.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-004",
+    "title": "Introduce a guitar chord",
+    "description": "A new player wants to learn a basic chord.",
+    "instructions": "Demonstrate finger placement and guide the learner while checking their understanding.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-005",
+    "title": "Help a classmate with fractions",
+    "description": "A learner does not understand equivalent fractions.",
+    "instructions": "Explain with a visual example and ask them to solve a new case with your guidance.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-006",
+    "title": "Lead a library orientation",
+    "description": "New visitors do not know how to find books.",
+    "instructions": "Explain the layout, demonstrate the catalog, and help visitors locate an item themselves.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-007",
+    "title": "Show a peer how to cite a source",
+    "description": "A learner is preparing their first referenced paragraph.",
+    "instructions": "Explain the citation parts and guide them through citing a source of their own.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-008",
+    "title": "Introduce composting",
+    "description": "Beginners want to understand a simple compost system.",
+    "instructions": "Explain the main components, demonstrate the arrangement, and answer learner questions.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-009",
+    "title": "Guide a map-reading lesson",
+    "description": "A small group is unfamiliar with map symbols.",
+    "instructions": "Explain the legend and help each learner interpret a short route.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-010",
+    "title": "Teach a greeting in another language",
+    "description": "Learners want to begin a basic conversation.",
+    "instructions": "Model the greeting, explain its use, and guide learners through responding.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-011",
+    "title": "Explain a chess move",
+    "description": "A new player is uncertain about how a piece moves.",
+    "instructions": "Demonstrate legal moves and check understanding with a position the learner chooses.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-012",
+    "title": "Show how to make a spreadsheet total",
+    "description": "A peer is new to formulas.",
+    "instructions": "Explain the formula and help them calculate a total in their own sheet.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-013",
+    "title": "Lead a drawing demonstration",
+    "description": "Beginners want to understand shading.",
+    "instructions": "Demonstrate how light affects a simple form and coach learners through an example.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-014",
+    "title": "Help someone use a camera",
+    "description": "A learner wants to understand focus controls.",
+    "instructions": "Explain the controls and guide the learner while they focus on a subject.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-015",
+    "title": "Teach a simple rhythm",
+    "description": "A group has never read the rhythm pattern.",
+    "instructions": "Break it into parts, demonstrate each part, and help learners combine them.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-016",
+    "title": "Introduce a board game",
+    "description": "New players need to understand the rules.",
+    "instructions": "Explain the goal, model a turn, and check that each player can describe their options.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-017",
+    "title": "Explain a sewing stitch",
+    "description": "A beginner wants to learn a basic hand stitch.",
+    "instructions": "Demonstrate the sequence and guide the learner's first attempt with feedback.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-018",
+    "title": "Help a younger learner read a clock",
+    "description": "A learner confuses the two clock hands.",
+    "instructions": "Explain their roles using examples and ask the learner to interpret a new time.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-019",
+    "title": "Lead a museum mini-lesson",
+    "description": "Visitors need help understanding an exhibit's central idea.",
+    "instructions": "Explain the idea using an object and invite questions to check understanding.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-020",
+    "title": "Show how to organize computer files",
+    "description": "A beginner struggles to locate saved documents.",
+    "instructions": "Demonstrate folders and names, then guide them through organizing sample files.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-021",
+    "title": "Explain a science observation",
+    "description": "A learner wonders why a familiar demonstration works.",
+    "instructions": "Give an accessible explanation and ask them to predict a related case.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-022",
+    "title": "Coach a speech opening",
+    "description": "A peer wants help beginning a presentation.",
+    "instructions": "Explain a useful structure and guide the learner through trying it with feedback.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-023",
+    "title": "Teach a paper fold",
+    "description": "A beginner has never made the simple paper model.",
+    "instructions": "Demonstrate each fold slowly and help the learner identify where alignment matters.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-024",
+    "title": "Introduce basic budgeting",
+    "description": "Learners are working with a hypothetical spending plan.",
+    "instructions": "Explain income and expense categories and guide them through a sample allocation.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-025",
+    "title": "Show a visitor how to use the catalog",
+    "description": "A library visitor is unfamiliar with searching.",
+    "instructions": "Model a search and help the visitor refine their own query.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-026",
+    "title": "Explain equivalent measurements",
+    "description": "A cooking learner is confused by cup and spoon measures.",
+    "instructions": "Demonstrate the relationship and check understanding with a new example.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-027",
+    "title": "Guide a beginner through debugging",
+    "description": "A learner cannot interpret a simple error message.",
+    "instructions": "Explain how to locate the problem and coach them through a similar example.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-028",
+    "title": "Teach a warm-up rhythm game",
+    "description": "New participants need to learn the sequence.",
+    "instructions": "Explain and demonstrate the pattern, then help participants who lose their place.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-029",
+    "title": "Help a classmate interpret a graph",
+    "description": "A learner confuses the axes on a chart.",
+    "instructions": "Explain the labels and ask questions that guide them toward reading a value correctly.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-030",
+    "title": "Introduce a historical timeline",
+    "description": "A group of learners needs help ordering events.",
+    "instructions": "Explain how the timeline works and guide learners through placing sample events.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-031",
+    "title": "Show someone how to plant a container",
+    "description": "A beginner wants to understand the sequence.",
+    "instructions": "Demonstrate the arrangement and ask the learner to explain each step back to you.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-032",
+    "title": "Lead a poetry mini-lesson",
+    "description": "Learners are unfamiliar with imagery.",
+    "instructions": "Explain the idea with examples and help them identify imagery in a new passage.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-033",
+    "title": "Teach an accessible photo description",
+    "description": "A peer wants to describe an image clearly.",
+    "instructions": "Explain how to prioritize relevant details and give feedback on their attempt.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-034",
+    "title": "Help a learner distinguish fact and opinion",
+    "description": "A beginner finds the distinction confusing.",
+    "instructions": "Explain it with examples and guide them through classifying new statements.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-035",
+    "title": "Introduce a safe workshop routine",
+    "description": "New visitors need orientation from an authorized instructor.",
+    "instructions": "Explain the posted procedures and check that learners understand when to ask staff for help.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-036",
+    "title": "Explain the water cycle",
+    "description": "A learner knows the terms but not their connections.",
+    "instructions": "Use a diagram to explain the sequence and ask the learner to describe a water droplet's path.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-037",
+    "title": "Show how to read a bus timetable",
+    "description": "A new rider is confused by the schedule layout.",
+    "instructions": "Explain rows and columns and guide them through finding a sample departure.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-038",
+    "title": "Teach a beginner to use search filters",
+    "description": "A learner gets too many irrelevant results.",
+    "instructions": "Demonstrate filters and coach the learner as they narrow a sample search.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-039",
+    "title": "Guide a learner through a paragraph",
+    "description": "A student struggles to connect a topic sentence with evidence.",
+    "instructions": "Explain the structure and help them improve an example paragraph.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-040",
+    "title": "Introduce color mixing",
+    "description": "A beginner wants to understand how two paints combine.",
+    "instructions": "Demonstrate a small mixture and ask the learner to predict and explain another.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-041",
+    "title": "Help a peer understand percentages",
+    "description": "A learner struggles to connect percentages and fractions.",
+    "instructions": "Explain with a visual model and guide them through a new example.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-042",
+    "title": "Show how to record clear audio",
+    "description": "A beginner is making their first voice recording.",
+    "instructions": "Explain microphone placement and coach them through checking a short sample.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-043",
+    "title": "Lead an introduction to local plants",
+    "description": "Learners need help noticing distinguishing features.",
+    "instructions": "Explain visible features using permitted examples and check learners' observations.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-044",
+    "title": "Explain a recycling label",
+    "description": "A group is confused about symbols on packaging.",
+    "instructions": "Use the applicable local guidance to explain the labels and answer questions about examples.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-045",
+    "title": "Teach a simple dance sequence",
+    "description": "New dancers need help understanding the steps.",
+    "instructions": "Demonstrate slowly, explain the transitions, and guide learners through their first attempts.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-046",
+    "title": "Help someone interpret feedback",
+    "description": "A learner does not understand comments on their work.",
+    "instructions": "Explain the comments and guide them toward choosing a concrete revision.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-047",
+    "title": "Introduce a digital presentation tool",
+    "description": "A beginner has never created a slide.",
+    "instructions": "Demonstrate the controls and help them build a sample slide while explaining their choices.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-048",
+    "title": "Explain a story's point of view",
+    "description": "A learner confuses the narrator with the author.",
+    "instructions": "Explain the distinction and guide them through identifying the narrator in another passage.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-049",
+    "title": "Show how to check a source",
+    "description": "A peer is unsure whether a website is trustworthy.",
+    "instructions": "Explain a source-checking process and coach them as they apply it to an example.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  },
+  {
+    "id": "synthetic-v1-teach-050",
+    "title": "Guide a new volunteer",
+    "description": "A newcomer needs to understand an event check-in task.",
+    "instructions": "Explain the procedure, model an interaction, and check that they can carry it out with support.",
+    "activityType": "TEACH",
+    "source": "ai_generated_synthetic",
+    "dataset_version": "synthetic-v1",
+    "human_reviewed": false
+  }
+]

@@ -9,3 +9,5 @@ checkpoints/
 data/*
 !data/examples.jsonl
 !data/README.md
+!data/activities.jsonl
+!data/activities.synthetic.json

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Activity Studio · MyVillage</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="/static/app.js" defer></script>
+</head>
+<body>
+<header><a class="brand" href="/" aria-label="MyVillage home"><span class="brand-icon">m<span>v</span></span>MyVillage<span class="brand-sub"> / Activity Studio</span></a><a class="api-link" href="/docs">API docs ↗</a></header>
+<main>
+<section class="intro"><p class="eyebrow"><span></span> LEARNING, UNDERSTOOD</p><h1>Every activity has<br>a way of <em>learning.</em></h1><p class="lede">Describe an activity. Discover its learning type.<br>Turn everyday ideas into more intentional learning experiences.</p></section>
+<div class="workspace">
+<section class="card input-card" aria-labelledby="input-heading">
+<div class="card-heading"><span class="step">01</span><h2 id="input-heading">Describe your activity</h2></div>
+<p class="hint">Add what you know. More context can help the model distinguish the main purpose.</p>
+<form id="activity-form">
+<label for="title">Activity title</label><input id="title" name="title" maxlength="2000" placeholder="e.g. Make a birthday song">
+<label for="description">Description</label><textarea id="description" name="description" maxlength="20000" rows="3" placeholder="What is the activity about?"></textarea>
+<label for="instructions">Instructions</label><textarea id="instructions" name="instructions" maxlength="20000" rows="4" placeholder="What will the learner actually do?"></textarea>
+<div class="form-footer"><span>At least one field is needed.</span><button type="reset" id="reset">Clear</button></div>
+<button class="primary" id="classify" type="submit">Classify activity <span aria-hidden="true">↗</span></button>
+<p id="error" class="error" role="alert" hidden></p>
+</form>
+<div class="examples"><p>Need a starting point?</p><div><button type="button" data-example="create">Compose a song</button><button type="button" data-example="practice">Rehearse a song</button><button type="button" data-example="research">Explore an idea</button></div></div>
+</section>
+<section class="card result-card" aria-labelledby="result-heading" aria-busy="false">
+<div class="card-heading"><span class="step">02</span><h2 id="result-heading">Explore the prediction</h2></div>
+<div id="status" role="status" aria-live="polite" class="status">Your result will appear here.</div>
+<div id="empty"><div class="orbit" aria-hidden="true"><span>✧</span></div><h3>A little context.<br>A new perspective.</h3><p>Describe an activity on the left, then select<br><strong>Classify activity</strong> to see its learning type.</p></div>
+<div id="result" hidden><div class="prediction"><p class="eyebrow">PREDICTED LEARNING TYPE</p><div class="prediction-line"><h3 id="predicted-label"></h3><span id="confidence"></span></div><p id="definition"></p></div><div class="chart-heading"><h3>All seven learning types</h3><span>Model score</span></div><div id="chart" role="list" aria-label="Scores for all seven activity types"></div><p class="score-note">Scores show the model’s relative confidence, not guaranteed correctness. Similar scores may indicate an ambiguous activity.</p></div>
+</section>
+</div>
+<aside class="notice"><span class="notice-tag">PROTOTYPE</span><p>This project uses synthetic training examples. Check predictions against the activity’s main learning objective; performance on real MyVillage activities is still untested.</p></aside>
+<section class="guide" aria-labelledby="guide-heading"><div><p class="eyebrow">THE SEVEN WAYS</p><h2 id="guide-heading">What kind of learning<br>is taking place?</h2></div><dl><div><dt>Reflection</dt><dd>Make sense of your own learning and experiences.</dd></div><div><dt>Research</dt><dd>Gather, compare, and assess evidence.</dd></div><div><dt>Collaborate</dt><dd>Work with others toward a shared outcome.</dd></div><div><dt>Create</dt><dd>Produce an original artifact or solution.</dd></div><div><dt>Practice</dt><dd>Improve a skill through repeated performance.</dd></div><div><dt>Experience</dt><dd>Learn through firsthand exposure or participation.</dd></div><div><dt>Teach</dt><dd>Help someone else learn through guidance.</dd></div></dl></section>
+</main><footer><span>MyVillage · Activity Type Classifier</span><span>Built for more intentional learning.</span></footer>
+</body></html>

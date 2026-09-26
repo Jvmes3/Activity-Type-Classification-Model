@@ -166,3 +166,25 @@ MODEL_PATH=jvmes3/ActivityTypeClassifierModel uvicorn app:app --host 127.0.0.1 -
 
 The Hub must contain uploaded trained weights before remote prediction works.
 This connection does not automatically sync GitHub commits to Hugging Face.
+
+## Interactive homepage
+
+Start the local app with the model version you want to demonstrate:
+
+```bash
+source .venv/bin/activate
+MODEL_PATH=activity_model_outputs/v3 uvicorn app:app --host 127.0.0.1 --port 8000
+```
+
+Open http://127.0.0.1:8000 for the activity form and seven-score chart. Enter a title,
+description, and/or instructions, then select **Classify activity**. Example buttons
+fill the form without making a prediction until you submit. Changing an input clears
+the old prediction. The page explains each type and the limits of synthetic training.
+The API documentation remains available at `/docs`.
+
+The homepage runs locally with no external fonts, chart services, or analytics.
+Submitting an activity calls the existing `/predict` endpoint; it does not save the
+activity or retrain the model. The displayed score is uncalibrated model confidence.
+
+Optional browser checks (requires Playwright and its Chromium browser installed):
+`node tests/homepage.cjs`. Set `BASE_URL` if using a port other than 8000.

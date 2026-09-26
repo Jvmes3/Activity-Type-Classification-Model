@@ -1,0 +1,173 @@
+{
+  "metrics": {
+    "test_loss": 0.7715888023376465,
+    "test_accuracy": 0.9591836734693877,
+    "test_macro_f1": 0.9571428571428572,
+    "test_runtime": 0.3713,
+    "test_samples_per_second": 131.956,
+    "test_steps_per_second": 18.851
+  },
+  "labels": [
+    "REFLECTION",
+    "RESEARCH",
+    "COLLABORATE",
+    "CREATE",
+    "PRACTICE",
+    "EXPERIENCE",
+    "TEACH"
+  ],
+  "per_class": {
+    "REFLECTION": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1-score": 0.9333333333333333,
+      "support": 7.0
+    },
+    "RESEARCH": {
+      "precision": 1.0,
+      "recall": 0.7142857142857143,
+      "f1-score": 0.8333333333333334,
+      "support": 7.0
+    },
+    "COLLABORATE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "CREATE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "PRACTICE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "EXPERIENCE": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1-score": 0.9333333333333333,
+      "support": 7.0
+    },
+    "TEACH": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "accuracy": 0.9591836734693877,
+    "macro avg": {
+      "precision": 0.9642857142857143,
+      "recall": 0.9591836734693878,
+      "f1-score": 0.9571428571428572,
+      "support": 49.0
+    },
+    "weighted avg": {
+      "precision": 0.9642857142857143,
+      "recall": 0.9591836734693877,
+      "f1-score": 0.9571428571428571,
+      "support": 49.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      5,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7
+    ]
+  ],
+  "split_counts": {
+    "train": {
+      "REFLECTION": 36,
+      "RESEARCH": 36,
+      "COLLABORATE": 36,
+      "CREATE": 36,
+      "PRACTICE": 36,
+      "EXPERIENCE": 36,
+      "TEACH": 36
+    },
+    "validation": {
+      "REFLECTION": 7,
+      "RESEARCH": 7,
+      "COLLABORATE": 7,
+      "CREATE": 7,
+      "PRACTICE": 7,
+      "EXPERIENCE": 7,
+      "TEACH": 7
+    },
+    "test": {
+      "REFLECTION": 7,
+      "RESEARCH": 7,
+      "COLLABORATE": 7,
+      "CREATE": 7,
+      "PRACTICE": 7,
+      "EXPERIENCE": 7,
+      "TEACH": 7
+    }
+  },
+  "seed": 42,
+  "base_model": "distilbert/distilbert-base-uncased",
+  "data_sha256": "5795470df001f08a109091f013940bd6adc668f9c8406c9a31430e7e405f872b"
+}
